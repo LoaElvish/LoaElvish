@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kyeol%20Lee&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CODOK&fontSize=70)
 <div align="center">
 Hi, there👋
 <br/>
